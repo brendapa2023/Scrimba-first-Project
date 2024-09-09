@@ -1,0 +1,76 @@
+.images{
+cover
+}
+body {
+  background: url(coffeeshop.jpg);
+  background-size: cover;
+  background-color:green;
+  padding-top: 200px;
+  padding-botttom: 200px;
+}
+h1{
+  color:white;
+  text-align:center;
+  padding-top: 10px;
+
+  
+}
+button{
+  color:black;
+
+  
+}
+#Big-button{
+  text-align:center;
+  font-color:black;
+  background-color: green;
+  display:block;
+  margin:auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  dispaly: flex;
+  justify-content: space-between;
+}
+
+}
+.center{
+  display:block;
+}
+.my-button { 
+display:block;
+margin:auto;
+padding-top: 10px;
+ padding-bottom: 10px; 
+
+}
+
+.navlist {
+  display: flex;
+  justify-content: center;
+}
+
+.navlist li {
+  padding: 20px;
+  list-style-type: none;
+  text-align: center;
+  font-color: green;
+}
+.navbar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+   .hero-image, h2 ,p {
+    font-color: white;
+    display: flex;
+     justify-content:center;
+     
+  }
+  .name-text{
+    color:white;
+  }
+.my-services{
+  color:white;
+}
+.my-occupation {
+  color: white;
+}
